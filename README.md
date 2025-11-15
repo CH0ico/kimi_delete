@@ -1,3 +1,7 @@
+用于批量删除历史聊天记录
+
+
+```
 async function sleep(ms) {
     return new Promise(resolve => setTimeout(resolve, ms));
 }
@@ -84,3 +88,5 @@ async function main() {
 }
  
 setTimeout(main, 200);
+
+```
